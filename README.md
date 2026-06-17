@@ -396,7 +396,7 @@ Developing custom web solutions for local businesses and personal projects.
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Codeofchandra/Codeofchandra/output/github-contribution-grid-snake.svg#gh-dark-mode-only" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Codeofchandra/Codeofchandra/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake Animation" />
 </p>
 
 <br />
